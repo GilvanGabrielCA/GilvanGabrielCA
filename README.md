@@ -6,7 +6,7 @@
 
 💡 Besides C# and game development, I am open to exploring other technologies and frameworks that can enhance my skills in this dynamic field. My goal is to contribute to the creation of innovative and captivating games.
 
-🕹️ Currently immersed in the world of game development, working on projects such as [Include specific game projects or technologies you're using]. I'm always eager to collaborate on exciting ventures that push the boundaries of interactive entertainment.
+🕹️ Currently immersed in the world of game development. I'm always eager to collaborate on exciting ventures that push the boundaries of interactive entertainment.
 
 🤝 Let's build extraordinary gaming experiences together! If you are seeking a passionate and dedicated game developer, don't hesitate to reach out. I'm excited to learn, contribute, and evolve within the captivating realm of game development.
 
