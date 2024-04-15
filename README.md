@@ -25,7 +25,7 @@ Let's have a coffee, I'm always open to learn new things and discuss crazy ideas
           🐦 <a href="https://twitter.com/_GilvanGabriel">Follow me on Twitter</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/gilvangabriel/">Follow me on instagram</a>
+          📷 <a href="https://www.instagram.com/gilvangabrielca/">Follow me on instagram</a>
         </li>
         <li>
           📬 <a href=mailto:gilvangabrielalencar@icloud.com>Contact-me on email</a>
