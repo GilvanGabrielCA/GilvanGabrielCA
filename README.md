@@ -1,39 +1,19 @@
-<h1> Hi, I'm Gilvan 👨🏻‍💻 </h1>
+# Olá, sou o Gilvan 👨🏻‍💻 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilvangabriel/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/gilvangabrielca/)
 
-I am passionate about technology! I had my first contact with computers when I was 6 years old, and since then, I've been discovering more about this wonderful field. I love the opportunities that technology offers people and its proposition to make life easier. My dream is to continue developing myself and achieve great accomplishments in the world of technology, while also exploring the world, sharing all my knowledge, and acquiring new experiences and skills.
 
-I have knowledge in: C, C++, C#, ASP.NET, HTML, CSS, SQL, Postgre, GO, Dart, Flutter.
+Sou apaixonado por tecnologia! Tive meu primeiro contato com computadores aos 6 anos de idade e, desde então, venho descobrindo mais sobre esse campo maravilhoso. Adoro as oportunidades que a tecnologia oferece às pessoas e sua proposta de tornar a vida mais fácil. Meu sonho é continuar me desenvolvendo e alcançar grandes realizações no mundo da tecnologia, enquanto exploro o mundo, compartilho todo o meu conhecimento e adquiro novas experiências e habilidades.
 
-I've been working in the technology field for about 2 years, serving as a IT assistant for 1 year, and currently working as a Junior Support Analyst at the multinational company Eurochem, responsible for the fertilizers unit in Dourados - MS.
+Tenho conhecimentos em: C#, SQL, PostgreSQL, Dart, Flutter.
 
-Let's have a coffee, I'm always open to learn new things and discuss crazy ideas. You can reach me at gilvangabrielalencar@icloud.com
+Trabalho na área de tecnologia há cerca de 2 anos, atuando como assistente de TI por 1 ano e, atualmente, como Analista de Suporte Júnior na multinacional Eurochem, responsável pela unidade de fertilizantes em Dourados - MS.
 
-"Today's science is tomorrow's technology." - Edward Teller
+Vamos tomar um café? Estou sempre aberto para aprender coisas novas e discutir ideias inovadoras. Você pode me contatar em gilvangabrielalencar@icloud.com
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="200" src="https://u-static.fotor.com/images/text-to-image/result/PRO-f4f452d247d841ab9abd39e10ba8d1b6.jpg" />
-    </td>
-    <td style="border: 0";>
-      <h3>Other places you can find me</h3>
-      <ul>
-        <li>
-          🐦 <a href="https://twitter.com/_GilvanGabriel">Follow me on Twitter</a>
-        </li>
-        <li>
-          📷 <a href="https://www.instagram.com/gilvangabrielca/">Follow me on instagram</a>
-        </li>
-        <li>
-          📬 <a href=mailto:gilvangabrielalencar@icloud.com>Contact-me on email</a>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GilvanGabrielCA&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GilvanGabrielCA&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GilvanGabrielCA&theme=nord_dark) |
 | :-: | :-: | :-: |
