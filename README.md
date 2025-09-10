@@ -1,36 +1,64 @@
-<h2 align="left">Olá, eu sou o Gilvan👋</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Gilvan%20Gabriel&height=100&section=header"/>
+</p>
 
-###
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
-<p align="left">Analista Jr - Desenvolvedor C# 🏠 Brasileiro 🌎 Mato Grosso do Sul ✈️ Brasil</p>
-
-###
-
-<h4 align="left">Encontre-me por aqui 🌎</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/gilvangabriel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gilvangabriel/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:gilvangabriealencar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="https://www.instagram.com/gilvangabrielca/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
-  <a href="https://instagram/gilvangabrielca" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://discord.com/users/332209936194863107">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
-</div>
+  <a href="mailto:gilvangabriel_@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-###
+<h2>👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
-<p align="left">💻 Atualmente trabalho com Infraestrutura<br>📚 Estudando C#<br>🎓 Quase graduando em Engenharia de Software<br>🕹️ Jogador de FIFA  e LOL</p>
+```yaml
+name: Gilvan Gabriel C. de Alencar
+located_in: Mato Grosso do Sul, Brazil
+current_job: IT Assistant
+education:
+  [
+    "Bachelor’s Degree in Software Engineering"
+  ]
+company: Taurus Distribuidora de Petroleo
 
-###
+fields_of_interests:
+  [
+    "Web Development",
+    "Java Software Development"
+    "DevOps",
+  ]
+Professional Experience:
+  [
+    "IT Assistant - Taurus Distribuidora de Petroleo"
+    "IT Analyst - Eurochem",
+    "IT Assistant - Unicon Contabilidade"
+  ]
+  
+currently_learning: ["Java, SpringBoot, and Angular"]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+hobbies: ["Gaming", "Cinema", "Fotball", "Comedy"]
+```
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilvanGabrielCA&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GilvanGabrielCA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" width="90" height="90">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" width="110" height="110">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" width="130" height="130">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="java" width="130" height="130">
+</p>
 
-###
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
