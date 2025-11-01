@@ -26,18 +26,19 @@
 ```yaml
 name: Gilvan Gabriel C. de Alencar
 located_in: Mato Grosso do Sul, Brazil
-current_job: IT Assistant
+current_job: IT Assistant | Backend Developer in Progress
 education:
   [
-    "Bachelor’s Degree in Software Engineering"
+    "Bachelor’s Degree in Software Engineering (UNIGRAN, 2022-2026)"
   ]
 company: Taurus Distribuidora de Petroleo
 
 fields_of_interests:
   [
-    "Web Development",
-    "Java Software Development"
-    "DevOps",
+    "Backend Development",
+    "DevOps and Infrastructure Automation",
+    "Cloud Computing",
+    "Software Architecture"
   ]
 Professional Experience:
   [
