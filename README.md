@@ -38,18 +38,25 @@ fields_of_interests:
     "Backend Development",
     "DevOps and Infrastructure Automation",
     "Cloud Computing",
-    "Software Architecture"
+    "Software Architecture",
+    "API Design and Integration",
+    "Database Optimization"
   ]
 Professional Experience:
   [
-    "IT Assistant - Taurus Distribuidora de Petroleo"
-    "IT Analyst - Eurochem",
-    "IT Assistant - Unicon Contabilidade"
+    "IT Assistant - Taurus Distribuidora de Petroleo (2025-Present)",
+    "Software Developer - Grupo Rotele (2024-2025)",
+    "IT Analyst - Eurochem Brasil (2023-2025)",
+    "IT Assistant - Unicon Contabilidade (2022-2023)"
   ]
   
-currently_learning: ["Java, SpringBoot, and Angular"]
-2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Fotball", "Comedy"]
+currently_learning: 
+[
+  "C#, .NET Core, and ASP.NET API Development",
+  "Node.js with TypeScript and RESTful Services",
+  "Docker, CI/CD Pipelines, and Cloud Deployments",
+  "PostgreSQL and SQL Performance Tuning"
+]
 ```
 
 <h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
