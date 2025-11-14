@@ -37,7 +37,6 @@ public class Gilvan : Developer
     
     public void AprendizadoAtual()
     {
-        // Fundamentos sólidos antes de frameworks
         var topicos = new[] 
         { 
             "Estruturas de Dados",
