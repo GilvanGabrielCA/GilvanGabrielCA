@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5C2D91&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gilvan+Gabriel+%F0%9F%91%8B;Engenharia+de+Software+%F0%9F%92%BB;Seguran%C3%A7a+Cibern%C3%A9tica+%F0%9F%9B%A1%EF%B8%8F;Backend+com+C%23+e+.NET+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 
-**Analista de Suporte Jr na Taurus Distribuidora de Petróleo** · 📍 Dourados - MS
+**Assistente de TI na Taurus Distribuidora de Petróleo** · 📍 Dourados - MS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilvanalencar/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gilvangabrielca/)
@@ -20,11 +20,11 @@ public class Gilvan : Developer
 {
     public string Nome      => "Gilvan Gabriel C. de Alencar";
     public string Local     => "Dourados - MS 🇧🇷";
-    public string Cargo     => "Analista de Suporte Jr @ Taurus Distribuidora de Petróleo";
+    public string Cargo     => "Assistente de TI @ Taurus Distribuidora de Petróleo";
 
     public string[] Formacao => new[]
     {
-        "🎓 Engenharia de Software — 6º semestre",
+        "🎓 Engenharia de Software — concluído ✅",
         "🛡️ Segurança Cibernética — 1º semestre (Unigran EAD)"
     };
 
